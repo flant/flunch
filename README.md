@@ -1,3 +1,5 @@
+![Flunch logo](http://i.imgur.com/VbC6KNW.png)
+
 # Description
 Flunch is an open source non-alcohol drink for everyone who’s feeling thirsty.
 
