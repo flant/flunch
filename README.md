@@ -5,7 +5,7 @@ Flunch is an open source non-alcohol drink for everyone who’s feeling thirsty.
 
 # Recipe
 * Water: 7 ½ parts.
-* Blue Curaçao: 3 parts.
+* Blue Curaçao syrup: 3 parts.
 * Pineapple juice: 6 parts.
 * Grapefruit juice: 3 ½ parts.
 * Lemon juice: 1 part.
